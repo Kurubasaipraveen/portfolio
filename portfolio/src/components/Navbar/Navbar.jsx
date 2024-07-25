@@ -31,6 +31,9 @@ const Navbar = () => {
             <Link to="/projects" className="nav-link mx-2" id="navLink">
               Projects
             </Link>
+            <Link to="/certificates" className="nav-link mx-2" id="navLink">
+            Certificates
+            </Link>
             <Link to="/contact" className="nav-link mx-2" id="navLink">
               Contact
             </Link>

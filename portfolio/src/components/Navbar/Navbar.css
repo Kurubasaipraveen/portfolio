@@ -2,8 +2,9 @@
     font-family: var(--jetbrains-font);
   }
   
-  #navbar {
+  #navbar-brand {
     background: transparent;
+    color: #ffff;
   }
   
   #headerLink {
@@ -44,3 +45,4 @@
     color: var(--main-color);
     transition: all 0.5s;
   }
+  

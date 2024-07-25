@@ -9,9 +9,9 @@ const Cover = () => {
       <div className="row align-items-center my-5 py-5">
         <div className="col-lg-7 py-5 order-2 order-lg-1 px-4">
           <h4 className="font-weight-bold">Hello, Its me</h4>
-          <h2 className="font-weight-bold">Kuruba saipraveen</h2>
+          <h2 className="font-weight-bold">Kuruba <marque behavior="scroll" direction="left" scrollamount="5"> saipraveen</marque></h2>
           <h4 className="font-weight-bold mb-4 pb-2">
-            I'm a <span>Web Developer</span>
+            I'm a <span><marque behavior="scroll" direction="left" scrollamount="5">Web Developer</marque></span>
           </h4>
           <p className="font-weight-normal">
             I'm a Student. Insterested in Web Development
@@ -31,6 +31,13 @@ const Cover = () => {
               className="mx-2"
             >
               <i class="bi bi-github"></i>
+            </Link>
+            <Link
+              to="mailto:ksaipraveen6@gmail.com?subject=Hello&body=Hi%20there,%0A%0AJust%20wanted%20to%20say%20hello!"
+              target="_blank"
+              className="mx-2"
+            >
+              <i class="bi bi-envelope"></i>
             </Link>
           </div>
           <a href="https://drive.google.com/uc?export=download&id=1GWQnyl55UXK3Y55MSNT_XYySZHklfT-R" download="resume.pdf">

@@ -7,6 +7,8 @@ import ContactMe from "./components/ContactMe/ContactMe.jsx";
 import Skills from "./components/Skills/Skills.jsx";
 import Footer from "./components/Footer/Footer.jsx";
 import Home from "./components/Home/Home.jsx";
+import './App.css'
+import Certificates from "./components/Certificates/Certificate.jsx";
 
 const App = () => {
   return (
@@ -19,6 +21,7 @@ const App = () => {
         <Route exact path="/projects" element={<Projects />} />
         <Route exact path="/skills" element={<Skills />} />
         <Route exact path="/contact" element={<ContactMe />} />
+        <Route exact path="/certificates" element={<Certificates/>}/>
       </Routes>
 
       <Footer />

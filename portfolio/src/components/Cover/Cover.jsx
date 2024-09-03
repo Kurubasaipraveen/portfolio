@@ -14,7 +14,7 @@ const Cover = () => {
             I'm a <span><marque behavior="scroll" direction="left" scrollamount="5">Full Stack developer</marque></span>
           </h4>
           <p className="font-weight-normal">
-            I'm a Student. Insterested in Web Development
+            I'm a Student. Insterested in Full Stack developer
           </p>
 
           <div className="social-media py-3">

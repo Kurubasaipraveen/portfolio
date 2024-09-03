@@ -11,7 +11,7 @@ const Cover = () => {
           <h4 className="font-weight-bold">Hello, Its me</h4>
           <h2 className="font-weight-bold">Kuruba <marque behavior="scroll" direction="left" scrollamount="5"> saipraveen</marque></h2>
           <h4 className="font-weight-bold mb-4 pb-2">
-            I'm a <span><marque behavior="scroll" direction="left" scrollamount="5">Web Developer</marque></span>
+            I'm a <span><marque behavior="scroll" direction="left" scrollamount="5">Full Stack developer</marque></span>
           </h4>
           <p className="font-weight-normal">
             I'm a Student. Insterested in Web Development

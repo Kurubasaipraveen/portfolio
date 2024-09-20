@@ -16,6 +16,7 @@ const Projects = () => {
               className="img-fluid shadow rounded projImg"
             />
             </a>
+            <h1> E-Commerce Platform,Similar To Amazon</h1>
           </div>
           <div className="col-12 col-md-6 px-4 py-4">
           <a href='https://jobbybypraveen.ccbp.tech/login' target="_blank" rel="noreferrer">
@@ -25,6 +26,7 @@ const Projects = () => {
               className="img-fluid shadow rounded projImg"
             />
             </a>
+            <h1> Job searching platform </h1>
           </div>
           <div className="col-12 col-md-6 px-4 py-4">
           <a href='https://saitictiktoe.ccbp.tech' target="_blank" rel="noreferrer">
@@ -34,6 +36,7 @@ const Projects = () => {
               className="img-fluid shadow rounded projImg"
             />
             </a>
+            <h1>Todo Saving a Daily routine Activities</h1>
           </div>
           
         </div>

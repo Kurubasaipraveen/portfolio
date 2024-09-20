@@ -15,8 +15,9 @@ const Projects = () => {
               alt="Project 1"
               className="img-fluid shadow rounded projImg"
             />
+              <h1> E-Commerce Platform,Similar To Amazon</h1>
             </a>
-            <h1> E-Commerce Platform,Similar To Amazon</h1>
+            
           </div>
           <div className="col-12 col-md-6 px-4 py-4">
           <a href='https://jobbybypraveen.ccbp.tech/login' target="_blank" rel="noreferrer">
@@ -25,8 +26,9 @@ const Projects = () => {
               alt="Project 2"
               className="img-fluid shadow rounded projImg"
             />
-            </a>
             <h1> Job searching platform </h1>
+            </a>
+            
           </div>
           <div className="col-12 col-md-6 px-4 py-4">
           <a href='https://saitictiktoe.ccbp.tech' target="_blank" rel="noreferrer">
@@ -35,8 +37,9 @@ const Projects = () => {
               alt="Project 3"
               className="img-fluid shadow rounded projImg"
             />
+            <h3>Todo Saving a Daily routine Activities</h3>
             </a>
-            <h1>Todo Saving a Daily routine Activities</h1>
+            
           </div>
           
         </div>

@@ -17,17 +17,16 @@ const AboutMe = () => {
             <h4 className="mt-5">Kuruba Saipraveen</h4>
             <h6 className="mt-4 mb-5">
               <i>
-                Full Stack<span>Developer</span>!
+                Full Stack <span>Developer</span>!
               </i>
             </h6>
             <p className="py-2">
-              I'm a front-end developer eager to grow into Full-Stack
-              Development. I'm skilled in HTML, CSS, Bootstrap, JavaScript, Python Express.js , Node.js and
+              I'm a full stack developer.I'm skilled in HTML, CSS, Bootstrap, Sql, JavaScript, Python Express.js , Node.js and
               React, with a keen interest in learning more. I'm committed to
               honing my abilities in these areas.
             </p>
             <p className="py-2">
-              If you're in need of a motivated front-end developer, I'm here and
+              If you're in need of a motivated full stack developer, I'm here and
               ready to contribute. I'm excited about opportunities to broaden my
               skills and make meaningful contributions to projects. Let's work
               together!

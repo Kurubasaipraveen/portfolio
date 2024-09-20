@@ -15,7 +15,6 @@ const Projects = () => {
               alt="Project 1"
               className="img-fluid shadow rounded projImg"
             />
-              <h1> E-Commerce Platform,Similar To Amazon</h1>
             </a>
             
           </div>
@@ -26,7 +25,7 @@ const Projects = () => {
               alt="Project 2"
               className="img-fluid shadow rounded projImg"
             />
-            <h1> Job searching platform </h1>
+            
             </a>
             
           </div>
@@ -37,7 +36,7 @@ const Projects = () => {
               alt="Project 3"
               className="img-fluid shadow rounded projImg"
             />
-            <h3>Todo Saving a Daily routine Activities</h3>
+            
             </a>
             
           </div>

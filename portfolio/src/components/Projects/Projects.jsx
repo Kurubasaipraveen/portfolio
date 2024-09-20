@@ -40,6 +40,17 @@ const Projects = () => {
             </a>
             
           </div>
+           <div className="col-12 col-md-6 px-4 py-4">
+          <a href='https://simpletodossaip.ccbp.tech/' target="_blank" rel="noreferrer">
+            <img
+              src='https://res.cloudinary.com/dyutmmnia/image/upload/v1726804665/kknsso2u5blpfpa9h1od.png'
+              alt="Project 4"
+              className="img-fluid shadow rounded projImg"
+            />
+            
+            </a>
+            
+          </div>
           
         </div>
       </div>

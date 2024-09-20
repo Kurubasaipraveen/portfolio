@@ -27,7 +27,7 @@ const Projects = () => {
             </a>
           </div>
           <div className="col-12 col-md-6 px-4 py-4">
-          <a href='saitictiktoe.ccbp.tech' target="_blank" rel="noreferrer">
+          <a href='https://saitictiktoe.ccbp.tech' target="_blank" rel="noreferrer">
             <img
               src='https://res.cloudinary.com/dyutmmnia/image/upload/v1726803630/z39eqohntuv2zsptbcqr.png'
               alt="Project 3"

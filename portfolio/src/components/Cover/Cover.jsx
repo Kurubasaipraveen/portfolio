@@ -11,7 +11,7 @@ const Cover = () => {
           <h4 className="font-weight-bold">Hello, Its me</h4>
           <h2 className="font-weight-bold">Kuruba <marque behavior="scroll" direction="left" scrollamount="5"> saipraveen</marque></h2>
           <h4 className="font-weight-bold mb-4 pb-2">
-            I'm a <span><marque behavior="scroll" direction="left" scrollamount="5">Full Stack developer</marque></span>
+            I'm a <span><marquee behavior="scroll" direction="left" scrollamount="10">Full Stack Developer</marquee></span>
           </h4>
           <p className="font-weight-normal">
             I'm a Student. Insterested in Full Stack developer
@@ -45,7 +45,7 @@ const Cover = () => {
           </a>
         </div>
         <div className="col-12 col-lg-4 offset-lg-1 text-center order-1 order-lg-2 py-5">
-          <img src="https://res.cloudinary.com/dyutmmnia/image/upload/v1720952540/bobhlatwje8djfpjk6va.png" alt="sisi_tarak" className="img-fluid" />
+          <img src="https://res.cloudinary.com/dyutmmnia/image/upload/v1727933404/k8xq3wrzizp20smhzxtt.png" alt="sisi_tarak" className="img-fluid" />
         </div>
       </div>
     </div>

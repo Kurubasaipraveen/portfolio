@@ -18,6 +18,11 @@
     box-shadow: 0 0 1 rem var(--main-color);
     transition: 0.5s ease;
   }
-  img{
-    border-radius: 30px;
-  }
+  
+  /* Cover.css */
+.img-fluid {
+  max-height: 400px; /* Set to desired height */
+  width: auto;       /* Maintain aspect ratio */
+  object-fit: cover;
+  border-radius: none; /* Ensures the image covers the area */
+}

@@ -40,7 +40,7 @@ const Cover = () => {
               <i class="bi bi-envelope"></i>
             </Link>
           </div>
-          <a href="https://drive.google.com/uc?export=download&id=1GWQnyl55UXK3Y55MSNT_XYySZHklfT-R" download="resume.pdf">
+          <a href="https://drive.google.com/uc?export=download&id=1uGjOCuBjDIvRxk3N87gOkvItfEWcxmEO" download="resume.pdf">
             <button className="button my-3">Download Resume🫠</button>
           </a>
         </div>

@@ -45,7 +45,7 @@ const Cover = () => {
           </a>
         </div>
         <div className="col-12 col-lg-4 offset-lg-1 text-center order-1 order-lg-2 py-5">
-          <img src="https://res.cloudinary.com/dyutmmnia/image/upload/v1727933404/k8xq3wrzizp20smhzxtt.png" alt="sisi_tarak" className="img-fluid" />
+          <img src="https://res.cloudinary.com/dyutmmnia/image/upload/v1729663658/vqhkbcycbsdog58gocjv.png" alt="sisi_tarak" className="img-fluid" />
         </div>
       </div>
     </div>

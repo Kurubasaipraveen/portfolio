@@ -5,15 +5,18 @@ img{
     height: 300px;
     border: 2px solid black;
     padding: 10px;
-    margin-bottom: 10px;
-    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-right: 15px;
     border: 2px solid white;
     
 }
 
 .cotainer{
-    margin: 30px;
-    margin-top: 50px;
+    margin: 40px;
+    margin-left: 70px;
+}
+.padd{
+    margin: 50px;
 }
 *{
   margin: 30px;

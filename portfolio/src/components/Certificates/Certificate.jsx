@@ -16,8 +16,11 @@ const Certificates = () => {
  
       <img src='https://res.cloudinary.com/dyutmmnia/image/upload/v1721880556/dsvt5grptcoiua0vsqtw.png' className='image' alt='Nodejs'/>
       
-      <img src='https://res.cloudinary.com/dyutmmnia/image/upload/v1721880556/lntbljhdfngdnuqzq12g.png' className='image' alt='reactsj'/>
+      <img src='https://res.cloudinary.com/dyutmmnia/image/upload/v1721880556/lntbljhdfngdnuqzq12g.png' className='image' alt='reacts-js'/>
       <img src='https://res.cloudinary.com/dyutmmnia/image/upload/v1721880556/jw9ldqcaitsw8kt6hizv.png' className='image' alt='flexbox'/>
+      <img src='https://res.cloudinary.com/dyutmmnia/image/upload/v1729664737/uxj1ywj5hhytwbwccaob.png' className='image' alt='Javascript-hacker-rank'/>
+      <img src='https://res.cloudinary.com/dyutmmnia/image/upload/v1729664738/pqbss974dpswoollylil.png' className='image' alt='Python-hacker-rank'/>
+      <img src='https://res.cloudinary.com/dyutmmnia/image/upload/v1729664737/alaag2rk098kjwlchit4.png' className='image' alt='frontend-hacker-rank'/>
     </div>
     </div>
   );

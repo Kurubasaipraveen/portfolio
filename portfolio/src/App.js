@@ -12,6 +12,8 @@ import Certificates from "./components/Certificates/Certificate.jsx";
 
 const App = () => {
   return (
+    <div class="snow">
+
     <BrowserRouter>
       <Navbar />
 
@@ -26,6 +28,7 @@ const App = () => {
 
       <Footer />
     </BrowserRouter>
+    </div>
   );
 };
 

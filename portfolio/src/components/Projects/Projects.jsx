@@ -27,6 +27,7 @@ const Projects = () => {
             />
             
             </a>
+            <h3>Username:praveen or rahul <br/>Password: praveen@2024 or rahul@2021</h3>
             
           </div>
           <div className="col-12 col-md-6 px-4 py-4">

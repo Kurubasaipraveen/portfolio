@@ -6,7 +6,7 @@ const Projects = () => {
       <h3 className="py-5 ">
         My <span>Projectss</span>...
       </h3>
-      <p>Username: praveen<br/>Password: praveen@2024</p>
+     
       <div className="container my-5">
         <div className="row">
           <div className="col-12 col-md-6 px-4 py-4">

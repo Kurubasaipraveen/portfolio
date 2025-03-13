@@ -14,7 +14,7 @@ const AboutMe = () => {
             
           </div>
           <div className="col-12 col-lg-7 mx-3 pl-5 aboutRight">
-            <h4 className="mt-5">Kuruba Saipraveen</h4>
+            <h4 className="mt-5"> Saipraveen Kuruba</h4>
             <h6 className="mt-4 mb-5">
               <i>
                 Full Stack <span>Developer</span>!
